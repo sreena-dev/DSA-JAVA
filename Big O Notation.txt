@@ -1,0 +1,17 @@
+big O or Order of:-
+
+1. O(1): const time
+2. O(log n): logarithmic time
+3. O(n): linear time
+4. O(n log n): linearithmic time 
+5. O(n^2): Quadratic time
+6. O(2^n): Exponential time
+7. O(n!): Factorial time
+
+1. O(1): const time            -->  O(constant) eg. arr[5],arr[500],etc,.
+                               -->  linear search
+2. O(log n): logarithmic time  -->  log base 2 is default so -> log base 2 of 16 = 2 x 2 x 2 x 2 =4
+                               -->  log base 2 of 32 = 2 x 2 x 2 x 2 x 2 = 5
+                               -->  binary search 
+which means for every doubling of the values in the array it takes only 1 extra step for execution  
+
